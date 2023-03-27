@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @julo57
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning c++ and python
+- 🌱 I’m currently learning c# and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
